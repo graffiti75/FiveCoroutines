@@ -12,11 +12,29 @@
         android:id="@+id/id_ex1_button"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Example 1" />
+        android:text="Example 1: \nCoroutineScope and WithContext" />
 
     <Button
         android:id="@+id/id_ex2_button"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Example 2" />
+        android:text="Example 2: \nTimeout" />
+
+    <Button
+        android:id="@+id/id_ex3_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Example 3: \nInvokeOnCompletion" />
+
+    <Button
+        android:id="@+id/id_ex4_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Example 4: \nAsync and Await" />
+
+    <Button
+        android:id="@+id/id_ex5_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Example 5: \nCoroutine Exception Handler" />
 </LinearLayout>

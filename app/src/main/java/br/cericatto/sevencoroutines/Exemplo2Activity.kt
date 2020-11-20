@@ -13,7 +13,7 @@ class Exemplo2Activity : AppCompatActivity() {
         private const val TAG = "coroutines"
     }
 
-    private val JOB_TIMEOUT = 1900L
+    private val JOB_TIMEOUT = 2010L
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)

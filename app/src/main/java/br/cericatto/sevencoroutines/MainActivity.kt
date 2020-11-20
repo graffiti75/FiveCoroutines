@@ -16,5 +16,14 @@ class MainActivity : AppCompatActivity() {
         id_ex2_button.setOnClickListener {
             startActivity(Intent(this, Exemplo2Activity::class.java))
         }
+        id_ex3_button.setOnClickListener {
+            startActivity(Intent(this, Exemplo3Activity::class.java))
+        }
+        id_ex4_button.setOnClickListener {
+            startActivity(Intent(this, Exemplo4Activity::class.java))
+        }
+        id_ex5_button.setOnClickListener {
+            startActivity(Intent(this, Exemplo5Activity::class.java))
+        }
     }
 }
