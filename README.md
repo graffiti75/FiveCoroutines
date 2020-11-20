@@ -1,6 +1,17 @@
 # SevenCoroutines
 
+# Concepts Covered
+
+This application contains 5 examples of use of Coroutines in Android, using language Kotlin:
+- CoroutineScope and WithContext
+- Timeout
+- InvokeOnCompletion
+- Async and Await
+- Coroutine Exception Handler
+
 # Additional Info
+
+In this section we will cover some important Coroutines concepts that can lead to confusion: _launch_, _async_ and _supervisorScope_.
 
 ## launch
 
