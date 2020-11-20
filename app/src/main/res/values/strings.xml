@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">SevenCoroutines</string>
+    <string name="example_1">Example 1: \nCoroutineScope and WithContext</string>
+    <string name="example_2">Example 2: \nTimeout</string>
+    <string name="example_3">Example 3: \nInvokeOnCompletion</string>
+    <string name="example_4">Example 4: \nAsync and Await</string>
+    <string name="example_5">Example 5: \nCoroutine Exception Handler</string>
 </resources>
